@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "MNN5/YJL186W Dry-Lab Design Validation Repository"
+message: "If you use this repository, cite the repository release and the original data/tool sources."
+authors:
+  - family-names: "Shea"
+    given-names: "Michaela"
+version: "0.1.0"
+date-released: "2026-06-02"
