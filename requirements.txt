@@ -1,0 +1,7 @@
+# Core Python packages used by benchmark scaffolds
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+openpyxl
